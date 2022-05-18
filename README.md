@@ -1,5 +1,5 @@
 # news-scrape
-This app scans Top UK news sites and returns latest headline news items. There are three deployment options, A CLI, and two web apps using two web apps - using streamlit and flask
+This app scans Top UK news sites and returns latest headline news items. There are three deployment options, A CLI, and two web apps using two web frameworks - streamlit and flask
 
 ### Built With
 * [typer](https://pypi.org/project/typer/)
@@ -18,7 +18,7 @@ This app scans Top UK news sites and returns latest headline news items. There a
 ![Streamlit Output](./imgs/st-output.png)
 
 
-### 2. FLASK (still in development)
+### 2. FLASK  
 ![Flask Output](./imgs/fl-output2.png)
 
 
